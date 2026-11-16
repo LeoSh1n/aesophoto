@@ -1,0 +1,10 @@
+{
+  "name": "aesophoto",
+  "description": "검은색과 흰색의 모던한 스튜디오 감성으로 네컷사진을 촬영하고 커스텀 프레임 편집 후 바로 인화하거나 고화질로 저장할 수 있는 네컷사진 스튜디오",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
